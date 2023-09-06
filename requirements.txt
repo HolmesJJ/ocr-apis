@@ -1,0 +1,10 @@
+tqdm
+boto3
+requests
+pytesseract
+paddlepaddle
+paddleocr
+pytesseract
+google-cloud-documentai
+google-cloud-storage
+google-cloud-documentai-toolbox

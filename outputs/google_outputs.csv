@@ -1,0 +1,73 @@
+image,predictions
+test0.png,"Every path is
+the right path., Every, path, is, the, right, path, ."
+test1.jpeg,"חס
+PULSE 74
+/min
+N
+L
+ֿ
+S
+S, חס, PULSE, 74, /, min, N, L, ֿ, S, S"
+test10.jpeg,"OMRON
+SYS 141
+mmHg
+DIA
+mmHg
+84
+S, OMRON, SYS, 141, mmHg, DIA, mmHg, 84, S"
+test11.png,"65.5
+3/9
+Omron
+1061
+75
+神止, 65.5, 3/9, Omron, 1061, 75, 神, 止"
+test12.png,"omnon can
+高压 11.8
+低压 78
+1820
+0
+10:08
+开始
+置, omnon, can, 高压, 11.8, 低压, 78, 1820, 0, 10:08, 开始, 置"
+test13.png,
+test14.png,"18, 18"
+test15.png,"75, 75"
+test16.png,"7, 7"
+test17.png,"106, 106"
+test18.png,"118, 118"
+test19.png,"旧, 旧"
+test2.jpeg,"Ron
+SYS 127 DI 79
+mmHg
+mmHg
+JN
+D
+C, Ron, SYS, 127, DI, 79, mmHg, mmHg, JN, D, C"
+test20.png,"1 98980, 1, 98980"
+test3.jpeg,"חי
+PULSE
+! min
+74, חי, PULSE, !, min, 74"
+test4.jpeg,"חכ
+SYS 127 mi
+DIA
+mmHg
+mmHg
+79
+Jr, חכ, SYS, 127, mi, DIA, mmHg, mmHg, 79, Jr"
+test5.jpeg,"PULSE
+74
+4, PULSE, 74, 4"
+test6.jpeg,"SYS
+$127 DI 79
+4, SYS, $, 127, DI, 79, 4"
+test7.jpeg,"PULSE 67
+fmin, PULSE, 67, fmin"
+test8.jpeg,"SYS 125 DIA 78
+mmHg
+malig, SYS, 125, DIA, 78, mmHg, malig"
+test9.jpeg,"OMRON
+PULSE 81
+/min
+JN, OMRON, PULSE, 81, /, min, JN"
