@@ -33,9 +33,9 @@ BAIDU_OCR_CLIENT_ID = ""
 BAIDU_OCR_CLIENT_SECRET = ""
 BAIDU_OCR_URL = "https://aip.baidubce.com/rest/2.0/ocr/v1/webimage"
 
-IMAGES_DIR = "images/"
+IMAGES_DIR = "images1/"
 
-OUTPUTS_PATH = "outputs/{0}_outputs.csv"
+OUTPUTS_PATH = "outputs1/{0}_outputs.csv"
 
 
 def get_baidu_token():
@@ -147,4 +147,4 @@ def predict(apis, interval=0, debug=False):
 
 
 if __name__ == "__main__":
-    predict([GOOGLE], interval=5, debug=False)
+    predict([AZURE], interval=5, debug=True)
